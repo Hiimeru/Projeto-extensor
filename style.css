@@ -27,7 +27,7 @@ header{
     display: flex;
     background-color: #fac7f0;
     height: 100vh;
-    width: 184vh;
+    width: 180vh;
 }
 
 #self{
@@ -39,5 +39,9 @@ header{
 #logo{
     margin-top: 40vh;
     height: 30vh;
-    width: 110vh;
+    width: 108.8vh;
+}
+
+.about-me{
+    width: 180vh;
 }
