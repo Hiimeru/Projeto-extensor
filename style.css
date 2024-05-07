@@ -45,3 +45,102 @@ header{
 .about-me{
     width: 180vh;
 }
+
+#title-aboutme {
+    display: flex;
+    justify-content: center;
+    font-size: 11vh;
+    margin: 15vh 0;
+}
+
+#text-aboutme{
+    font-size: 2.5vh;
+    width: 150vh;
+    text-align: center;
+    margin-left: 12vh;
+
+}
+
+#title-myjob {
+    display: flex;
+    justify-content: center;
+    font-size: 11vh;
+    margin: 15vh 0 10vh 0;
+}
+
+#text-myjob {
+    font-size: 2.5vh;
+    width: 150vh;
+    text-align: center;
+    margin-left: 12vh;
+    margin-bottom: 5vh
+}
+
+.galery {
+    display: inline;
+    margin-left: 10vh;
+}
+
+.nails{
+    width: 40vh;
+    height: 40vh;
+}
+
+
+#title-map {
+    display: flex;
+    justify-content: center;
+    font-size: 11vh;
+    margin: 15vh 0 10vh 0;
+}
+
+#iframe-map {
+    width: 160vh;
+    margin-left: 10vh;
+    border: 1vh solid black;
+    border-radius: 15px;
+    margin-bottom: 20vh;
+}
+
+.footer{
+    background-color: #fac7f0;
+    height: 40vh;
+}
+.footer-link {
+    color: black;
+    font-size: 6vh;
+    margin-top: 5vh;
+}
+
+.footer-direct-links{
+    margin-top: 5vh;
+    display: flex;
+    gap: 2vh;
+    justify-content: center;
+    gap: 6vh;
+}
+
+.link-logo-footer{
+    display: flex;
+    justify-content: center;
+}
+
+#footer-link-img {
+    width: 18vh;
+    height: 10vh;
+    margin-top: 2vh;
+}
+
+.foot-bar {
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+    background-color: black;
+    height: 6vh;
+    color: rgb(255, 255, 255);
+    font-size: 2.4ch;
+}
+
+#copyr-warning {
+    margin-top: 2vh;
+}
